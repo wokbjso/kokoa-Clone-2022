@@ -1,0 +1,20 @@
+.dot__red{
+    background-color: tomato;
+    width:5px;
+    height:5px;
+    border-radius: 50%;
+}
+
+.screen-header__icons .dot__red{
+    position:absolute;
+    right:-20px;
+    bottom:22px;
+}
+
+.icon-row__icon .dot__red{
+    position:absolute;
+    right:55px;
+    bottom:88px;
+}
+
+    

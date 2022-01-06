@@ -1,0 +1,25 @@
+.icon-row{
+    display:flex;
+    flex-wrap: wrap;
+    padding-bottom: 25px;
+}
+
+.icon-row__icon{
+    position:relative;
+    display:flex;
+    width:25%;
+    flex-direction: column;
+    align-items: center;
+    padding:15px;
+    box-sizing: border-box;
+}
+
+.icon-row__icon i{
+    font-size:35px;
+}
+
+.icon-row__icon span{
+    margin-top:18px;
+}
+
+
